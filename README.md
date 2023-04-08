@@ -1,7 +1,7 @@
 ## About Me:
 - 🔭 Hi! My name is Ahmad
 - 🌱 I’m Front-End developer
-![Snake animation](https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hamdamovvv___) 
